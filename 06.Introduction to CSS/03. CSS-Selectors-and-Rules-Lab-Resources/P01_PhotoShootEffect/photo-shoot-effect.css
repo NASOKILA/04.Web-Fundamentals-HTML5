@@ -1,5 +1,4 @@
 
-/*reset CSS file:*/
 *
 {
     margin: 0;
@@ -9,7 +8,7 @@
 body
 {
     width: 960px;
-    margin: 0 auto; /*center the body*/
+    margin: 0 auto; 
     font-family: Arial, sans-serif;
     color: #fcfcfc;
     Background: rgb(53, 86, 100);
@@ -19,7 +18,6 @@ h1,h2,h3
 {
     font-family: Forte, Arial, sans-serif;
 }
-
 
 h1
 {
@@ -75,12 +73,6 @@ nav
 
 a
 {
-    /*Dadeni sa ni 3 cvqta, shte slojim razlichen vqt na
-      vseki hiperlink. */
-
-    /* color: #ffffff;
-       color: #7CB3E9;
-       color: #8EC45B;*/
     color: #8EC45B;
     margin: 5px 2px;
     padding: 7px 10px 4px;
@@ -113,16 +105,8 @@ footer
     font-size: 20px;
 }
 
-
-/*
-  color: #ffffff;
-  color: #7CB3E9;
-  color: #8EC45B;
- */
-
 h1,h2
 {
-    /*Izpolzvahme atributa za da vzemem <a> taga sled nego*/
     text-transform: uppercase;
 }
 
@@ -143,7 +127,6 @@ li
 
 ul li>a
 {
-
     text-transform: lowercase;
     color: #7CB3E9;
 }
@@ -153,26 +136,8 @@ p + p
     color: white;
 }
 
-/*Kak da selektirame purviq i tretiq element ot navigation bara.
-  Trqbva da im smenim cveta i text dekorationa
-*/
-
 ul li + li + li>a
 {
-
     text-transform: uppercase;
     color: white;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
