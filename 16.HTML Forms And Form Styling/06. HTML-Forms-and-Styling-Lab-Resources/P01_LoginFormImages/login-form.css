@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Oxygen');
 
-
-
 *
 {
     padding: 0;
@@ -18,7 +16,6 @@ body {
 main
 {
     position: relative;
-    /*VAJNO : Davame mu relative za da sedi na nego triugulnika*/
     Width: 470px;
     Margin: 50px auto 0;
     Padding: 50px 60px 70px 60px;
@@ -49,20 +46,17 @@ footer {
     margin-top: 15px;
 }
 
-
 .image-container
 {
     text-align: center;
     margin-top: 50px;
 }
 
-
 img
 {
     Border: 5px solid #d5c395;
     Height: 123px;
 }
-
 
 .pass, .user{
     Outline: None;
@@ -75,10 +69,9 @@ img
     border-radius: 5px;  Margin-bottom: 30px;
 }
 
-/*Tozi nachin na selektirane moje da ni pomogne mnogo*/
 Input[type="submit"] {
 
-    Outline: none; /*Tova e TOCHNO SLED BORDERA, KATO VTORI BORER E !!!*/
+    Outline: none; 
     Border: none;
     Background: #927057;
     Padding: 10px;
@@ -88,7 +81,6 @@ Input[type="submit"] {
     Color: #d5c395;  border-radius: 5px;
     font-weight: bold;
 }
-
 
 .person, .lock
 {
@@ -100,46 +92,7 @@ Input[type="submit"] {
     Border: none;
 }
 
-
 .parent
 {
     position: relative;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

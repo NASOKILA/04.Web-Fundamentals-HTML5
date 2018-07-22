@@ -1,7 +1,4 @@
 
-
-
-
 *
 {
     margin: 0;
@@ -32,12 +29,10 @@ form header
     margin: 0 20px;
 }
 
-
 form main
 {
     margin: 40px;
 }
-
 
 form main div input
 {
@@ -45,14 +40,11 @@ form main div input
     color: #888;
 }
 
-
-
 form main div select option, form main div select
 {
     font-family: Georgia, "Times New Roman", serif;
     color: #888;
 }
-
 
 form main div label
 {
@@ -60,13 +52,11 @@ form main div label
     margin-right: 10px;
 }
 
-
 form main div
 {
     display: block;
     margin-bottom: 20px;
 }
-
 
 form main div input
 {
@@ -91,7 +81,6 @@ form main div:first-of-type + div + div
     resize: none;
 }
 
-
 form main div .message
 {
     font-family: Georgia, "Times New Roman", serif;
@@ -100,9 +89,6 @@ form main div .message
     bottom: 150px;
 }
 
-
-
-/*select*/
 form main div:last-of-type
 {
     margin-left:27px;
@@ -117,7 +103,6 @@ select
 
 .submit-btn
 {
-
     background-color:#E27575;
     color: #FFF;
     margin-left: 95px;
@@ -126,21 +111,3 @@ select
     border-radius: 5px;
     border: none;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

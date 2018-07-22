@@ -1,28 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 *
 {
     margin:0;
@@ -35,14 +11,10 @@ form
     margin: 20px auto;
 }
 
-
-
-
 form fieldset legend
 {
     margin: 15px;
 }
-
 
 form fieldset div label, .no-sence
 {
@@ -52,42 +24,22 @@ form fieldset div label, .no-sence
 
 form fieldset div, .no-sence
 {
-
     margin: 0 15px;
 }
-
 
 form fieldset div input
 {
     width: 200px;
 }
 
-
 #select
 {
     width: 204px;
 }
 
-/*textarea:*/
 #message
 {
     width: 204px;
     height: 154px;
     margin-bottom: 10px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
