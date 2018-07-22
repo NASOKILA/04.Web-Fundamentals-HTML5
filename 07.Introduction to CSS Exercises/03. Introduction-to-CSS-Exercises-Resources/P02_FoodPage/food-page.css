@@ -1,7 +1,4 @@
 
-/*Predi da zapochnem da rabotim trqbva da si importnem tova
-koeto ni trqbva i da izchistim default margini i paddingi.*/
-
 @import url('https://fonts.googleapis.com/css?family=Lato');
 
 *
@@ -9,11 +6,6 @@ koeto ni trqbva i da izchistim default margini i paddingi.*/
     margin: 0;
     padding: 0;
 }
-
-
-/*VAJNO !!!
-  Margina se polzva za mestene na elementi a
-  paddinga za da e po podredeno !!!*/
 
 body
 {
@@ -23,29 +15,22 @@ body
 
 main
 {
-    width:1024px; /*da e s maximalnata shirochina*/
-    margin: 0 auto; /*da e v centura*/
+    width:1024px; 
+    margin: 0 auto; 
 }
 
-
-/*sekcita ni e dva puti po golqma ot asade bar-a !!!*/
 .content
 {
     width:600px;
-    float: left; /*kazvame sekciqta da e v lqvo*/
+    float: left; 
 }
 
 aside
 {
     width:300px;
     float: right;
-    /*kazvame asade bar-a da e v dqsno za da se razmine
-    sus sekciata*/
 }
 
-
-/*VAJNO : S max-width: 100%; KAZVAME CHE NQMA KAK DA
-  IZLEZNAT SNIMKITE OT KONTEINERA V KOITO SEDAT!*/
 img
 {
     max-width: 100%;
@@ -53,8 +38,6 @@ img
 
 header
 {
-    /*kazvame mu da ne se povtarq i da e v centura.
-    pishem center center zastoto imame X i Y.*/
     background: url("images/header.jpg") no-repeat center center;
     background-size: cover;
     padding: 100px 0;
@@ -102,62 +85,6 @@ aside p
 {
     margin-bottom: 25px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
