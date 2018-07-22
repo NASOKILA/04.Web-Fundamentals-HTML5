@@ -31,7 +31,6 @@ p
     margin: 10px 0;
 }
 
-
 .right
 {
     background-color: #6495ED;
@@ -42,8 +41,6 @@ p
     margin-left: 1.5%;
     font-size: 20px;
 }
-
-
 
 article + article + article
 {
@@ -60,8 +57,3 @@ article + article + article
     border-radius: 8px;
     font-size: 20px;
 }
-
-
-
-
-
