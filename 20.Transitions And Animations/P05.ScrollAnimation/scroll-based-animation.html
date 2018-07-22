@@ -1,37 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head>
-
     <meta charset="UTF-8">
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <title>Scroll based animation</title>
-
     <link rel="stylesheet" href="style.css">
-
     <script src="http_code.jquery.com_jquery-3.1.1.js"></script>
-
 </head>
 <body>
 
-<!--For our animations to look good, the animated elements need to be able to be scrolled to. For this example I've added dummy content to the top -->
 <main class="main-container">
-
     <div class="container">
         <h1>Slide in from the left </h1>
         <p>This animation will focus on sliding an element from the left once it enters the view of the user</p>
     </div>
-
     <div class="container">
         <h2>
             Our Testimonials <i class="fa fa-comment"></i></h2>
         <p> We have worked in the industry for 15 years and have provided services to a wide range of clients.</p>
         <p>Come and see what our clients are saying about our services. </p>
     </div>
-
     <div class="container cf">
-        <!-- testimonial one -->
         <div class="animation-element slide-left testimonial first">
             <div class="header">
                 <div class="left">
@@ -54,7 +43,6 @@
                 <i class="fa fa-star-half-o"></i>
             </div>
         </div>
-        <!--testimonial two -->
         <div class="animation-element slide-left testimonial">
             <div class="header">
                 <div class="left">
@@ -70,7 +58,6 @@
                 and within a year we are making signifcant improvements..
                 <i class="fa fa-quote-right"></i>
             </div>
-
             <div class="rating">
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
@@ -79,7 +66,6 @@
                 <i class="fa fa-star-o"></i>
             </div>
         </div>
-        <!--testimonial three -->
         <div class="animation-element slide-left testimonial">
             <div class="header">
                 <div class="left">
@@ -103,7 +89,6 @@
                 <i class="fa fa-star"></i>
             </div>
         </div>
-        <!--testimonial four -->
         <div class="animation-element slide-left testimonial">
             <div class="header">
                 <div class="left">
@@ -127,9 +112,6 @@
                 <i class="fa fa-star-o"></i>
             </div>
         </div>
-
-
-
         <div class="animation-element slide-left testimonial">
             <div class="header">
                 <div class="left">
@@ -153,8 +135,6 @@
                 <i class="fa fa-star-o"></i>
             </div>
         </div>
-
-
         <div class="animation-element slide-left testimonial">
             <div class="header">
                 <div class="left">
@@ -178,8 +158,6 @@
                 <i class="fa fa-star-o"></i>
             </div>
         </div>
-
-
         <div class="animation-element slide-left testimonial">
             <div class="header">
                 <div class="left">
@@ -203,9 +181,6 @@
                 <i class="fa fa-star-o"></i>
             </div>
         </div>
-
-
-
         <div class="animation-element slide-left testimonial">
             <div class="header">
                 <div class="left">
@@ -229,8 +204,6 @@
                 <i class="fa fa-star-o"></i>
             </div>
         </div>
-
-
         <div class="animation-element slide-left testimonial">
             <div class="header">
                 <div class="left">
@@ -254,7 +227,6 @@
                 <i class="fa fa-star-o"></i>
             </div>
         </div>
-
         <div class="animation-element slide-left testimonial">
             <div class="header">
                 <div class="left">
@@ -279,7 +251,6 @@
             </div>
         </div>
     </div>
-
 </main>
 <script>
 
@@ -297,22 +268,15 @@ function check_if_in_view() {
         let element_top_position = $element.offset().top;
         let element_bottom_position = (element_top_position + element_height);
 
-        //check to see if this current container is within viewport
         if ((element_bottom_position >= window_top_position) &&
             (element_top_position <= window_bottom_position)) {
             $element.addClass('in-view');
         }
-//        else {
-//            $element.removeClass('in-view');
-//        }
     });
 }
 
 $window.on('scroll resize', check_if_in_view);
-
 $window.trigger('scroll');
-
 </script>
-
 </body>
 </html>

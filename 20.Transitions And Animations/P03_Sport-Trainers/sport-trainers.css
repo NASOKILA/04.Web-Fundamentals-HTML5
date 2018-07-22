@@ -88,17 +88,11 @@ ul li a {
     padding-left: 0;
 }
 
-
-/** Transition effects **/
-
-/**/
 .menu:hover .caption
 {
     transition: margin-left 1s;
     margin-left: 20%;
-
 }
-
 
 .caption ul li
 {
@@ -106,12 +100,10 @@ ul li a {
     transition: margin-left 1s;
 }
 
-
 .caption h4, .caption h5
 {
     margin-left: 15px;
 }
-
 
 .caption ul li:hover
 {
@@ -119,31 +111,3 @@ ul li a {
     transition: margin-left 1s;
     margin-left: 30px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
