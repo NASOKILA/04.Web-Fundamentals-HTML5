@@ -8,12 +8,10 @@
     width:100%;
 }
 
-
 #header-top-area a
 {
     margin-right: 30px;
 }
-
 
 @media screen and (max-width: 640px) {
     .wrap {
@@ -69,9 +67,6 @@
         display: block;
         cursor: pointer;
     }
-
-
-
 
     footer > .wrap > .box {
         text-align: center;
@@ -136,30 +131,4 @@
     #header-bottom-area h3{
         display: none;
     }
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

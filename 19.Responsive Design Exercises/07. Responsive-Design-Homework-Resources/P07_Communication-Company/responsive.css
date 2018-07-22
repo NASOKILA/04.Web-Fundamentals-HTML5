@@ -1,9 +1,4 @@
 
-
-
-/*IZBEGVAI DA SLAGASH height:; PRI RESPONSIVE SAITOVE ZASHTOTO
-  MNOGO PUTI NESHTATA IZLIZAT OT KONTEINERITE.*/
-
 @media screen and (max-width: 1200px) {
 
     body
@@ -21,7 +16,6 @@
         max-width: 100%;
         width: 100%;
     }
-
 
     body>.wrap>.hero-head {
 
@@ -73,14 +67,6 @@
         width:50%;
     }
 
-
-
-
-
-
-    /*first sektion*/
-
-
     body>.wrap>.content
     {
         display: block;
@@ -90,8 +76,6 @@
         height: 300px;
     }
 
-
-
     body>.wrap>.content>.wrapper
     {
         display: block;
@@ -99,8 +83,6 @@
         max-width: 76%;
         width: 100%;
     }
-
-
 
     body>.wrap>.content>.wrapper>.content-wrap
     {
@@ -110,7 +92,6 @@
         margin-top: 20px;
     }
 
-
     body>.wrap>.content>.wrapper>.content-wrap>.col>a
     {
         width: 30%;
@@ -118,12 +99,10 @@
         text-align: center;
     }
 
-
     body>.wrap>.content>.wrapper>.content-wrap>.col>h3
     {
         font-size: 30px;
     }
-
 
     body>.wrap>.content>.wrapper>.content-wrap>.col>.module-text
     {
@@ -171,9 +150,6 @@
         font-size: 12px;
     }
 
-
-    /*last section*/
-
     body>.wrap>.sponsors
     {
         height: 350px;
@@ -185,13 +161,9 @@
     {
     }
 
-
     body>.wrap>.sponsors>.wrapper>.content-wrap-full
     {
-
     }
-
-
 
     body>.wrap>.sponsors>.wrapper>.content-wrap-full>h3
     {
@@ -208,11 +180,9 @@
     {
     }
 
-
     body>.wrap>.sponsors>.wrapper>.content-wrap-full>.sponsors-list>li
     {
     }
-
 
     body>.wrap>.sponsors>.wrapper>.content-wrap-full>.sponsors-list>li>a
     {
@@ -222,9 +192,6 @@
     {
         margin-bottom: 15px;
     }
-
-
-        /*footer*/
 
     body>.wrap>.main-foot
     {
@@ -236,7 +203,6 @@
     {
         width: 76%;
         height: 200px;
-
     }
 
     body>.wrap>.main-foot>.wrapper>address
@@ -275,12 +241,10 @@
 
     }
 
-
     body>.wrap>.main-foot>.bottom
     {
         width: 100%;
     }
-
 
     body>.wrap>.main-foot>.bottom>.wrapper
     {
@@ -306,13 +270,7 @@
         min-width: 100px;
         width: 100%;
     }
-
 }
-
-
-
-
-
 
 @media screen and (max-width: 700px) {
 
@@ -340,10 +298,8 @@
         height: 100%;
     }
 
-
     body>.wrap>.main-foot>.wrapper
     {
-
         height:auto;
         display: block;
     }
@@ -366,33 +322,4 @@
         margin-left: 3%;
         vertical-align: top;
     }
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

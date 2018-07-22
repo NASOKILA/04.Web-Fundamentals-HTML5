@@ -18,6 +18,7 @@ time, mark, audio, video, input, select {
 	font: inherit;
 	vertical-align: baseline;
 }
+
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -25,24 +26,30 @@ footer, header, hgroup, menu, nav, section {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
+
 body {
 	line-height: 1;
 }
+
 ol, ul {
 	list-style: none;
 }
+
 blockquote, q {
 	quotes: none;
 }
+
 blockquote:before, blockquote:after,
 q:before, q:after {
 	content: '';
 	content: none;
 }
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
 .clearfix {
   *zoom: 1;
 }
@@ -69,6 +76,7 @@ video {
 audio:not([controls]) {
   display: none;
 }
+
 .hide-text {
   font: 0/0 a;
   color: transparent;
@@ -183,4 +191,3 @@ textarea {
   overflow: auto;
   vertical-align: top;
 }
-

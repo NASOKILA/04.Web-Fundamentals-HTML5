@@ -1,14 +1,4 @@
 ﻿
-
-/*
-    VAJNOOOOOOOOOOOO !!!!!!!!!!!!!!!!!!!!
-    GLEDAI ZA MIN I MAX WIDTH NA ELEMENTITE PREDI DA IM
-    DAVASH width 100%;
-
-*/
-
-
-
 @media screen and (max-width: 1000px) {
 
     html {
@@ -75,8 +65,6 @@
         margin-top:5px;
     }
 
-
-    /*section*/
     body > #wrapper > .contentblock {
         min-width: 100px;
         display: block;
@@ -124,34 +112,21 @@
         width: 100%;
     }
 
-
-    /*FOOTER*/
-
     footer
     {
         display: block;
         width: 100%;
         min-width: 100px;
     }
-
-
 }
-
-
-
-
-
 
 @media screen and (max-width: 756px)
 {
-
-
     header > #header-area-right > #menu {
         text-align: center;
         display: inline-block;
         margin: 0 auto;
     }
-
 
     header
     {
@@ -186,14 +161,9 @@
         width:50%;
     }
 
-
-    /*SEKCION*/
-
     body > #wrapper > .contentblock > #publicphotos > #p-albums-items > .p-photos-block {
         width: 45%;
     }
-
-
 
     body > #wrapper > .contentblock > #publicphotos {
 
@@ -205,53 +175,4 @@
         width: 80%;
         padding-left: 2%;
     }
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
