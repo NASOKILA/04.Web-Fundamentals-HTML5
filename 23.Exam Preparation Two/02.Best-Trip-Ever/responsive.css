@@ -1,5 +1,4 @@
 
-
 @media screen and (max-width: 480px){
 
     body
@@ -43,9 +42,7 @@
         padding: 160px 5px;
         text-align: center;
         width: 97%;
-
     }
-
 
     header>.header-title-container>.header-title
     {
@@ -58,7 +55,6 @@
         font-size: 30px;
     }
 
-
     body>main>.introduction-section>.introduction-title-container>.introduction-subtitle
     {
         padding: 0 30px;
@@ -66,18 +62,15 @@
         text-align: center;
     }
 
-
     body>main>.benefits-section>.wrapper
     {
         flex-direction: column;
     }
 
-
     body>main>.travel-section>.travel-title-container
     {
         width:100%;
     }
-
 
     body>main>.travel-section>.travel-title-container>h2
     {
@@ -105,20 +98,9 @@
         text-align: center;
         margin-bottom: 15px;
     }
-
 }
-
-
 
 body>main>.travel-section>.travel-title-container
 {
     width:100%;
 }
-
-
-
-
-
-
-
-
