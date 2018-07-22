@@ -1,9 +1,4 @@
-
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css');
-
-
-
-
 
 /* cyrillic-ext */
 @font-face {
@@ -62,15 +57,11 @@
     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 }
 
-
-
-
 *
 {
     margin:0;
     padding:0;
 }
-
 
 body
 {
@@ -109,7 +100,6 @@ form
     vertical-align: top;
 }
 
-
 .header-title
 {
     text-transform: uppercase;
@@ -136,7 +126,6 @@ form
     margin-top: 50px;
 }
 
-
 .all-divs>div
 {
     display: inline-block;
@@ -152,7 +141,6 @@ form
 
 .div1>input
 {
-
     text-transform: uppercase;
     background: transparent;
     padding: 6px;
@@ -168,7 +156,6 @@ form
     margin-top: 15px;
 }
 
-
 .div2>input
 {
     text-transform: uppercase;
@@ -178,8 +165,6 @@ form
     border: none;
 }
 
-
-
 .div3
 {
     margin-top: 15px;
@@ -187,7 +172,6 @@ form
     width: 155px;
     margin-left: 25px;
 }
-
 
 .div3>input
 {
@@ -198,7 +182,6 @@ form
     border: none;
 }
 
-
 .div4
 {
     margin-top: 15px;
@@ -206,7 +189,6 @@ form
     width: 155px;
     margin-left: 80px;
 }
-
 
 .div4>input
 {
@@ -217,8 +199,6 @@ form
     width: 115px;
 }
 
-
-
 .div5
 {
     margin-top: 15px;
@@ -226,8 +206,6 @@ form
     width: 155px;
     margin-left: 25px;
 }
-
-
 .div5>input
 {
     text-transform: uppercase;
@@ -236,7 +214,6 @@ form
     width: 115px;
     border: none;
 }
-
 
 #button
 {
@@ -250,51 +227,9 @@ form
     border: none ;
 }
 
-
 .fa-address-card
 {
     color: #FAFAFA;
     background-color: #333333;
     padding: 1.1px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

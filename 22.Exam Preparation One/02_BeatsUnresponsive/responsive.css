@@ -1,5 +1,4 @@
 
-
 @media screen and (max-width: 640px) {
 
     body > nav > .nav-primary {
@@ -21,14 +20,12 @@
         text-align: center;
     }
 
-
     body>main>.solo>.solo-cta
     {
         display: block;
         margin:0 auto;
         margin-top: 15%;
     }
-
 
     body>main>.second-row
     {
@@ -48,13 +45,11 @@
         margin: 0 auto;
     }
 
-
     body>main>.second-row>.mixr-left>.sr-description
     {
         display: block;
         margin: 10% auto;
     }
-
 
     body>main>.second-row>.mixr-left>.sr-cta
     {
@@ -62,13 +57,11 @@
         margin: 0 auto;
     }
 
-
     body>main>.second-row>.urbeats-right
     {
         width: auto;
         padding-top: 20px;
     }
-
 
     body>main>.second-row>.urbeats-right>.sr-title
     {
@@ -76,20 +69,17 @@
         margin: 0 auto;
     }
 
-
     body>main>.second-row>.urbeats-right>.sr-description
     {
         display: block;
         margin: 10% auto;
     }
 
-
     body>main>.second-row>.urbeats-right>.sr-cta
     {
         display: block;
         margin: 0 auto;
     }
-
 
     body>main>.studio
     {
@@ -99,9 +89,7 @@
     body>main>.studio>h1
     {
         text-align: center;
-
     }
-
 
     body>main>.studio>p
     {
@@ -110,15 +98,12 @@
         margin: 10% auto;
     }
 
-
     body>main>.studio>button
     {
         display: block;
         margin: 10% auto;
     }
-
-
-
+	
     .grid-gallery
     {
         text-align: center;
@@ -129,19 +114,4 @@
         width:47%;
         vertical-align: top;
     }
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-

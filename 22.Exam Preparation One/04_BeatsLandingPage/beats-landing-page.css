@@ -14,7 +14,6 @@
         font-family: "Open Sans";
     }
 
-
     .sec-one
     {
         background-color: white;
@@ -45,14 +44,12 @@
         border: 2px solid white;
     }
 
-
     .nav-menu-ul-li:hover
     {
         cursor: pointer;
         color:black;
         border-bottom: 2px solid #A6A6A6;
     }
-
 
     .article-one
     {
@@ -68,7 +65,6 @@
         font-weight: lighter;
         text-transform: uppercase;
     }
-
 
     .article-one>p
     {
@@ -90,24 +86,20 @@
 
     .img-article-one
     {
-
         vertical-align: top;
         display: inline-block;
         width: 446px;
     }
-
 
     img
     {
         width: 100%;
     }
 
-
     .nav-menu-ul-li:last-of-type
     {
         margin-right: 0;
     }
-
 
     .sec-two
     {
@@ -122,15 +114,12 @@
         display: inline-block;
     }
 
-
-
     .article-two
     {
         display: inline-block;
         width: 59.2%;
         vertical-align: top;
     }
-
 
     .article-two>h1
     {
@@ -141,7 +130,6 @@
         font-size: 55px;
         font-weight: lighter;
     }
-
 
     .article-two p:first-of-type
     {
@@ -179,7 +167,6 @@
 
     .article-two>button
     {
-
         color: white;
         background-color: red;
         position: relative;
@@ -191,8 +178,6 @@
         margin: 20px 0;
         text-transform: uppercase;
     }
-
-
 
     .sec-three
     {
@@ -244,7 +229,6 @@
         margin-top:20px;
     }
 
-
     .sec-four
     {
         height:412px;
@@ -264,7 +248,6 @@
         display: inline-block;
     }
 
-
     .sec-four-2-content
     {
         display: inline-block;
@@ -273,14 +256,12 @@
         margin-top:40px;
     }
 
-
     .sec-four-2-content>h1
     {
         font-size: 80px;
         text-align: center;
         text-transform: uppercase;
     }
-
 
     .sec-four-2-content>p
     {
@@ -296,7 +277,6 @@
         font-weight: 900;
     }
 
-
     .sec-four-img-2
     {
         vertical-align: top;
@@ -309,7 +289,6 @@
     {
         vertical-align: top;
         width:100%;
-
     }
 
     button:hover
@@ -317,50 +296,9 @@
         cursor: pointer;
     }
 
-
     footer
     {
         text-align: center;
         padding: 10px;
         color: #696969;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
