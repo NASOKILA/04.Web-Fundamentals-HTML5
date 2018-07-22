@@ -38,13 +38,11 @@ aside nav ul
 
 }
 
-
 aside nav ul li
 {
     display: table-row;
     list-style: none;
     letter-spacing: 1px;
-
 }
 
 aside nav ul li a
@@ -88,8 +86,6 @@ main
 
 .btn-right
 {
-
-
     text-transform: uppercase;
     border: 1px solid #ff7739;
     background-color: #ff7739;
@@ -128,7 +124,6 @@ main p
     padding: 10px 0;
 }
 
-
 article
 {
     margin-top: 10px;
@@ -155,7 +150,6 @@ article h3
     font-weight: 700;
 }
 
-
 article h4 {
     text-transform: capitalize;
     padding-left: 10px;
@@ -172,7 +166,6 @@ article:first-of-type
     background-color: #FAFBFC;
 }
 
-
 section + section article:first-of-type
 {
     background-color: white;
@@ -182,7 +175,6 @@ section + section article:first-of-type h3, section + section article:first-of-t
 {
     color: #91a5af;
 }
-
 
 .rented-listed
 {
@@ -240,6 +232,7 @@ section + section
     left: 20px;
     z-index: 1;
 }
+
 .rented-listed-5
 {
     position: absolute;
@@ -265,58 +258,3 @@ section + section
     left: 580px;
     z-index: 1;
 }
-/*•	Background Colors: #f3f5f7; #ff7739; #91a5af; #68bc69;*/
-
-
-/*#b1bfc6; #333; #384850; #ff7739; #91a5af;*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 *
 {
     margin:0;
@@ -41,7 +35,6 @@ header h1
     font-size: 16px;
 }
 
-
 main h2
 {
     font-weight: 900;
@@ -75,7 +68,6 @@ article:hover
     border-left-color: #009288;
 }
 
-
 article:last-of-type
 {
     margin-right: 0;
@@ -95,26 +87,3 @@ article p
     width: 184px;
     margin:0 auto;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

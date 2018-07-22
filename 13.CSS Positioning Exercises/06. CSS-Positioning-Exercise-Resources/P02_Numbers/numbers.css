@@ -1,5 +1,4 @@
 
-
 *
 {
     margin:0;
@@ -81,7 +80,6 @@ main section article button
     border-radius: 10px;
 }
 
-
 main section article div:hover
 {
     background-color: white;
@@ -103,13 +101,9 @@ main section article button:hover
     border-color: white;
 }
 
-
-
 h1
 {
     text-transform: capitalize;
     font-size: 20px;
     color: #9470DC;
 }
-
-
