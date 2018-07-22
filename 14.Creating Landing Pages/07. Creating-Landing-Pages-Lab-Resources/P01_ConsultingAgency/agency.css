@@ -2,7 +2,6 @@
 @import url('https://maxcdn.bootstrapcdn.com/fontawesome/4.7.0/css/font-awesome.min.css');
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
 
-
 *
 {
     margin:0;
@@ -202,13 +201,10 @@ article
     top: 35px;
 }
 
-
-
 .travel-buisness-customer article:last-of-type
 {
     margin-right: 0;
 }
-
 
 .travel-buisness-customer article h3
 {
@@ -255,7 +251,6 @@ article
     margin: 0 auto;
 }
 
-
 .banner span {
     color: #c79d63;
 }
@@ -269,10 +264,7 @@ article
     position: relative;
 }
 
-
-
 .banner::after {
-    /* Pishem go sled .banner zashtoto */
     content: "";
     background-size: cover;
     opacity: 0.3;
@@ -284,7 +276,6 @@ article
     position: absolute;
     z-index: -1;
 }
-
 
 .traders{
     
@@ -338,7 +329,6 @@ article
     cursor: pointer;
 }
 
-
 .woman-advice{
     background-image: url("images/consulting-woman.jpg");
     background-size: cover;
@@ -346,7 +336,6 @@ article
     height: 500px;
     color: #070A1E;
 }
-
 
 .woman-advice .first-article{
     background-color: white;
@@ -360,7 +349,6 @@ article
     position: relative;
     top:55px;
 }
-
 
 .woman-advice .first-article-p
 {
@@ -377,7 +365,6 @@ article
     position: relative;
     top:-8px;
 }
-
 
 .woman-advice .first-article-p:after{
     content: " '' ";
@@ -452,7 +439,6 @@ article
     padding-left: 30px;
 }
 
-
 .main-footer section
 {
     margin-top: 20px;
@@ -475,14 +461,12 @@ article
     width: 100%;
 }
 
-
 .main-footer .consulting .consulting-ul li a
 {
     text-decoration: none;
     color:white;
     font-size: 12px;
 }
-
 
 .main-footer .consulting .consulting-ul li
 {
@@ -492,7 +476,6 @@ article
     width:170px;
     margin-top: 20px;
 }
-
 
 .social-icons-ul{
     text-align: left;
@@ -552,7 +535,6 @@ article
 
 }
 
-
 .extra-links .extra-links-ul-one
 {
     text-align: left;
@@ -565,19 +547,16 @@ article
     width: 90px;
 }
 
-
 .instagram-widget div
 {
     margin-left: 20px;
     width: 355px;
 }
 
-
 .instagram-widget .first-three-images
 {
     margin-top: 15px;
 }
-
 
 .instagram-widget img {
     width: 32.7%;
@@ -587,7 +566,3 @@ article
 {
     margin-left: -5px;
 }
-
-
-
-
