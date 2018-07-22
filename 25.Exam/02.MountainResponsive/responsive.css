@@ -1,10 +1,6 @@
 @import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
 
-
-
 @media screen and (max-width: 480px){
-
-
 
     body
     {
@@ -18,10 +14,6 @@
         top:15px;
         margin-left: 20px;
     }
-
-
-
-
 
     .nav-options
     {
@@ -48,7 +40,6 @@
         width:100%;
     }
 
-
     .about-us p
     {
         width:90%;
@@ -56,14 +47,12 @@
         display: inline;
     }
 
-
     .info>.headings
     {
         width:100%;
         font-size: 25px;
         margin-top:20px;
     }
-
 
     .info>.paragraph
     {
@@ -91,9 +80,7 @@
         width:95%;
         margin-left: 2.5%;
         margin-top: 4%;
-
     }
-
 
     #second-heading
     {
@@ -101,8 +88,6 @@
         font-size: 22px;
         width:100%;
     }
-
-
 
     .why-us
     {
@@ -135,7 +120,6 @@
         text-align: center;
     }
 
-
     .our-team>article>img
     {
         margin: 0 auto;
@@ -152,18 +136,13 @@
         margin-bottom: 25px;
     }
 
-
-    /*font awesome bars*/
-
     .fa-bars
     {
         position: relative;
         left: 90%;
         bottom: -35px;
     }
-
 }
-
 
 @media screen and (min-width: 480px)
 {

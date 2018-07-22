@@ -1,17 +1,12 @@
-
-
-
 @import "https://fonts.googleapis.com/css?family=Francois+One";
 @import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300";
 @import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
-
 
 *
 {
     margin:0;
     padding:0;
 }
-
 
 body
 {
@@ -22,6 +17,7 @@ header
 {
     text-align: center;
 }
+
 body h1
 {
     font-family: Francois One;
@@ -38,6 +34,7 @@ main
 {
     text-align: center;
 }
+
 body form
 {
     text-align:left ;
@@ -66,7 +63,6 @@ form div
     margin-bottom: 15px;
     width:96%;
     margin-left:3% ;
-
 }
 
 span
@@ -90,13 +86,11 @@ i
     height:20px;
     top: -5px;
     text-align: center;
-
 }
 
 form input
 {
     font-family: 'Source Sans Pro';
-
     border: none;
     height: 28px;
     margin-top:5px;
@@ -107,7 +101,6 @@ form input
     position: relative;
     top:-3px;
     font-size: 16px;
-
 }
 
 input::-webkit-input-placeholder {
@@ -130,15 +123,3 @@ button:hover
 {
     cursor: pointer;
 }
-
-
-
-
-
-
-
-
-
-
-
-

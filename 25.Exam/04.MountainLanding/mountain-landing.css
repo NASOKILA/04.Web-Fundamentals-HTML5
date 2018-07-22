@@ -47,7 +47,6 @@ header
     font-weight: bold;
 }
 
-
 .header-content
 {
     text-align: center;
@@ -97,7 +96,6 @@ header
     font-size: 20px;
 }
 
-
 .sec-one
 {
     width:100%;
@@ -109,7 +107,6 @@ header
 {
     margin-top: 100px;
 }
-
 
 .sec-one>div>h1
 {
@@ -133,7 +130,6 @@ header
     margin: 100px auto;
     color: #CECECE;
 }
-
 
 .sec-two
 {
@@ -161,19 +157,15 @@ header
 
 }
 
-
 .sec-two>article>.div-img>img
 {
     width: 20%;
 }
 
-
 .sec-two>article>h3
 {
     margin-bottom:10px;
 }
-
-
 
 .sec-two>article>p
 {
@@ -181,17 +173,11 @@ header
     margin:0 auto;
 }
 
-
-/*section three*/
-
-
-
 .sec-three
 {
     width:100%;
     text-align: center;
 }
-
 
 .sec-three>.sec-three-header
 {
@@ -215,15 +201,12 @@ header
     color: #CECECE;
 }
 
-
 .sec-three>article>.div-img>img
 {
     width:100%;
     height:175px;
     box-shadow: 2px 2px 15px #C0BEBE;
-
 }
-
 
 .sec-three>article>.div-img>img:hover
 {
@@ -234,7 +217,6 @@ header
     margin-bottom:-25px;
     cursor:pointer;
 }
-
 
 .sec-three article
 {
@@ -262,16 +244,11 @@ header
     color:#CECECE;
 }
 
-
-
-/*section four*/
-
 .sec-four
 {
     background-color: #F6F6F6;
     width:100%;
 }
-
 
 .sec-four>.sec-four-header
 {
@@ -279,8 +256,6 @@ header
     padding-top: 40px;
     padding-bottom:35px;
 }
-
-
 
 .sec-four>.sec-four-header>h1
 {
@@ -292,8 +267,6 @@ header
     background-color: rgba(238,237,234, 0.4);
 }
 
-
-
 .sec-four>.sec-four-header>p
 {
     font-style: italic;
@@ -304,7 +277,6 @@ header
 .sec-four
 {
     text-align: center;
-
 }
 
 .sec-four>article
@@ -328,7 +300,6 @@ header
     background-color: #C36161;
 }
 
-
 .sec-four>article:last-of-type:hover
 {
     cursor:pointer;
@@ -339,12 +310,10 @@ header
     background-color: #C3AD61;
 }
 
-
 .sec-four>article:last-of-type
 {
     margin-right:0;
 }
-
 
 .left-side
 {
@@ -368,7 +337,6 @@ header
     height:360px;
 }
 
-
 .right-side h2
 {
     text-transform: uppercase;
@@ -379,9 +347,6 @@ header
     width:80%;
 }
 
-
-
-
 .right-side p
 {
     width:80%;
@@ -390,29 +355,3 @@ header
     font-size: 20px;
     margin: 0 auto;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

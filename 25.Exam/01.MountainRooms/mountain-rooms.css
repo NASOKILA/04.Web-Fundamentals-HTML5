@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Lato');
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
-
 *
 {
     margin:0;
     padding:0;
 }
+
 body
 {
     font-family: Lato;
@@ -46,7 +46,6 @@ main>section>article>img
     width: 100%;
 }
 
-
 main>section>article>h3
 {
     text-align: left;
@@ -55,7 +54,6 @@ main>section>article>h3
     font-family: 'Montserrat';
     padding: 10px 0;
 }
-
 
 main>section>article>ul
 {
@@ -74,7 +72,6 @@ main>section>article>ul>li
 main>section>article>ul>li:first-of-type:after
 {
     content:'  +  ';
-
 }
 
 main>section>article>ul>li:first-of-type + li:after
@@ -82,14 +79,11 @@ main>section>article>ul>li:first-of-type + li:after
     content:' + '
 }
 
-
 main>section>article>p
 {
     text-align: left;
     color:#A8A8A8;
 }
-
-
 
 main>section>article>p>span
 {
@@ -100,19 +94,3 @@ main>section>article>p>span
     font-size: 18px;
     font-weight: 900;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
