@@ -1,6 +1,4 @@
 
-
-
 body
 {
     font-family: Lato, sans-serif;
@@ -36,14 +34,12 @@ Article h1
     color: #FFF;
 }
 
-
 .price
 {
     font-size: 3em;
     font-weight: bold;
     color: #27dcc4;
 }
-
 
 ul
 {
@@ -71,22 +67,3 @@ li
     list-style-type: none; /*Stilut na li elementite*/
     padding: 5px 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
