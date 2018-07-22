@@ -12,7 +12,6 @@ table {
 }
 
 table tr {
-
     border: 2px solid #ccc;
     padding: 5px;
     background: #fff8b7;
@@ -22,7 +21,6 @@ table th, table td {
     padding: 10px;
     text-align: center;
     word-wrap: break-word;
-
 }
 
 table th {
@@ -30,8 +28,6 @@ table th {
     font-size: 14px;
     letter-spacing: 1px;
 }
-
-
 
 @media screen and (max-width: 600px) {
 
@@ -72,9 +68,4 @@ table th {
     {
        border-bottom: none;
     }
-
-
 }
-
-
-

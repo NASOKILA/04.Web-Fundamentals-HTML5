@@ -32,9 +32,11 @@ img {
 nav {
     background: #ffffff;;
 }
+
 article {
     width: calc(100% - 20px)
 }
+
 article p {
     max-width: 60%;
 }
@@ -99,7 +101,6 @@ nav {
     width: 40px;
     height: 40px;
     background: #4C8FEC url(images/menu-icon.png) center;
-
 }
 
 a:hover#menu-icon {
@@ -112,29 +113,18 @@ a:hover#menu-icon {
     justify-content: space-between;
 }
 
-
-
-
-
 @media all and (max-width: 880px) {
 
-
-/*ZA NAVIGACIQTA*/
-    /*skrivame celiq ul koito ni e samata navigaciq*/
     .top-list
     {
         display: none;
     }
 
-    /*davame na ikonkata za meniuto da se vijda*/
     #menu-icon
     {
         display: block;
     }
 
-
-/*ZA HEADERA*/
-    /*cqlata sekciq s artikulite v maina*/
     .business
     {
         display: flex;
@@ -144,22 +134,18 @@ a:hover#menu-icon {
         text-align: center;
     }
 
-    /*teksta v artikulite*/
     article p
     {
         margin: 0 auto;
         max-width: 100%;
     }
 
-/*ZA BUTONITE*/
-    /*diva s butonite*/
     .button
     {
         display: flex;
         flex-direction: column;
     }
 
-    /*butonite */
     .button a
     {
         display: block;
@@ -167,25 +153,4 @@ a:hover#menu-icon {
         width: 84%;
         line-height: 25px;
     }
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
