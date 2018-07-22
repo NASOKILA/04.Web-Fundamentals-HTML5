@@ -1,7 +1,5 @@
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 
-
-
 *
 {
     margin:0;
@@ -38,7 +36,6 @@ header
     font-size: 13px;
 }
 
-/*Liniqta*/
 header
 {
     margin: 0 30px;
@@ -75,10 +72,10 @@ form div input
     width: 93%;
     border-radius: 5px;
     border: 1px solid #DCD9D9;
-
 }
 
-input::-webkit-input-placeholder {
+input::-webkit-input-placeholder 
+{
     color: #DCD9D9 !important;
 }
 
@@ -102,12 +99,11 @@ input::-webkit-input-placeholder {
     color: white;
 }
 
-/*Chackboxa*/
 .checkbox  label input
 {
     float:left;
-    width: 20px; /*goleminata mu zvisi ot width i height !!!*/
-    height: 20px; /*goleminata mu zvisi ot width i height !!!*/
+    width: 20px; 
+    height: 20px; 
     margin-right: 10px;
 }
 
@@ -146,19 +142,3 @@ button:hover
 {
     text-decoration: underline;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

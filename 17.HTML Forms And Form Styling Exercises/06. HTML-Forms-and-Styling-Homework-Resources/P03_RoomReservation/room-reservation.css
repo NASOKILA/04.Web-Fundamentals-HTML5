@@ -1,6 +1,5 @@
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 
-
 *
 {
     padding: 0;
@@ -152,7 +151,6 @@ hr
     display: block;
 }
 
-/*select a room*/
 .request-reservation div:first-of-type select
 {
     margin-top: 11px;
@@ -162,7 +160,6 @@ hr
     top: -2px;
 }
 
-/*number of rooms*/
 .request-reservation div:first-of-type + div
 {
     width: 240px;
@@ -174,7 +171,6 @@ hr
     width: 95%;
 }
 
-/*Check-In*/
 .request-reservation div:first-of-type + div + div
 {
     width: 300px;
@@ -185,7 +181,6 @@ hr
     width: 95%;
 }
 
-/*Check-Uot*/
 .request-reservation div:first-of-type + div + div + div
 {
     width: 330px;
@@ -196,7 +191,6 @@ hr
     width: 96%;
 }
 
-
 .button
 {
     width: 100%;
@@ -205,7 +199,6 @@ hr
 
 button
 {
-
     color:white;
     background-color: #32A2E4;
     padding: 7px 40px;
@@ -214,24 +207,8 @@ button
     margin-bottom: 20px;
 }
 
-
 button:hover
 {
     background-color: #3BBC96;
     cursor: pointer;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

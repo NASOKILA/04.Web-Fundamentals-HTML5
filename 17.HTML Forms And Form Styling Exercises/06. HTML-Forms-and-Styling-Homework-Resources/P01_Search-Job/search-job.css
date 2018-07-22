@@ -1,7 +1,4 @@
-
-
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css');
-
 
 ul, div, nav, label
 {
@@ -21,13 +18,11 @@ nav
     width: 70%;
 }
 
-/*ul*/
 nav ul
 {
     background-Color: #384452
 }
 
-/*li*/
 nav ul li
 {
     display: inline-block;
@@ -36,7 +31,6 @@ nav ul li
     padding: 25px;
 }
 
-/*hiperlinks*/
 nav ul li a
 {
     text-decoration: none;
@@ -85,8 +79,8 @@ main
 {
     background-color: #EEEEEE;
     width: 70%;
-    display: flex; /* ??? */
-    flex-wrap: wrap; /* ??? */
+    display: flex; 
+    flex-wrap: wrap;
 }
 
 main label
@@ -127,66 +121,3 @@ button:hover
     color: #FFF7E4;
     cursor: pointer;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
