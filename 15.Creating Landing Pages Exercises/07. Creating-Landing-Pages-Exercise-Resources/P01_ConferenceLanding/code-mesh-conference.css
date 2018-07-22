@@ -24,7 +24,6 @@ header
     position: relative;
 }
 
-/*Taka dobavqme color-overlay na background image polzvaiki CSS !!! */
 header::after{
 
     height: 800px;
@@ -46,7 +45,6 @@ header::after{
     margin: 50px 40px;
     font-weight: 600;
 }
-
 
 .right-code-mesh a
 {
@@ -80,7 +78,6 @@ header::after{
     cursor: pointer;
 }
 
-
 .header-nav ul li a
 {
     text-decoration: none;
@@ -103,7 +100,6 @@ header h1
     font-weight: bold;
 }
 
-
 .fa-play-circle
 {
     color: white;
@@ -124,12 +120,10 @@ header h1
     color: white;
 }
 
-
 .fa-cube
 {
     color: white;
 }
-
 
 .header-icons
 {
@@ -137,7 +131,6 @@ header h1
     text-align: center;
     height: 277px;
 }
-
 
 .header-icons li
 {
@@ -147,12 +140,9 @@ header h1
     text-align: left;
     margin-right: 60px;
     height: 258px;
-
 }
 
-
 .header-icons li:hover {
-
     cursor: none;
     border-bottom: 20px solid #FC691E;
 }
@@ -163,7 +153,6 @@ header h1
     color: white;
 }
 
-
 main .section-one
 {
     margin-left: 30px;
@@ -171,8 +160,6 @@ main .section-one
     text-align: center;
     padding-top:100px;
     height: 500px;
-
-
 }
 
 .section-one article
@@ -183,7 +170,6 @@ main .section-one
     vertical-align: top;
 }
 
-/*first article*/
 .section-one article:first-of-type
 {
     padding-top: 50px;
@@ -199,8 +185,6 @@ main .section-one
     text-transform: capitalize;
 }
 
-
-/*second article*/
 .section-one article:first-of-type + article {
     width: 305px;
     text-align: left;
@@ -210,13 +194,11 @@ main .section-one
     padding-bottom: 30px;
 }
 
-
 .section-one article:first-of-type + article  h3{
     border-top: 1px solid #D1D1D5;
     padding-top: 30px;
     font-size: 18px;
 }
-
 
 .section-one article + article + article
 {
@@ -228,7 +210,6 @@ main .section-one
 .section-one article + article + article img {
     width: 100%;
 }
-
 
 .something
 {
@@ -248,7 +229,6 @@ main .section-one
     color: orangered;
     opacity: 0.6;
 }
-
 
 .section-two
 {
@@ -312,7 +292,6 @@ main .section-one
     border-radius: 100%;
 }
 
-/*section three :*/
 .section-three
 {
     margin-top: 25px;
@@ -327,7 +306,6 @@ main .section-one
     margin-bottom: 25px;
 }
 
-
 .section-three-div-header h3
 {
     width: 340px;
@@ -335,9 +313,7 @@ main .section-one
     text-align: left;
     float: left;
     margin-left:280px;
-
 }
-
 
 .section-three-div-header p {
 
@@ -356,11 +332,8 @@ main .section-one
     margin-top: 15px;
 }
 
-
-
 .pictures ul li
 {
-
     margin: 15px;
     list-style: none;
     display: inline-block;
@@ -380,7 +353,6 @@ main .section-one
     padding: 20px;
 }
 
-
 .speaker-info h5
 {
     text-transform: capitalize;
@@ -395,22 +367,16 @@ main .section-one
     color: #fa692e;
 }
 
-
 .speaker-info i
 {
     margin-left: 5px;
 }
-
 
 .speaker-info i:hover
 {
     color: #fa692e;
     cursor: pointer;
 }
-
-
-
-/*section four : */
 
 .section-four
 {
@@ -430,8 +396,6 @@ main .section-one
 
 }
 
-
-
 .block-section-four h1
 {
     text-transform: uppercase;
@@ -440,8 +404,6 @@ main .section-one
     margin-bottom: 40px;
 }
 
-
-
 .block-section-four p
 {
     width:400px;
@@ -449,7 +411,6 @@ main .section-one
     color: #C4C5C9;
     margin-bottom: 40px;
 }
-
 
 .form .email
 {
@@ -472,15 +433,11 @@ main .section-one
     font-weight: 500;
 }
 
-
 .button:hover
 {
     background-color: #333333;
     cursor: pointer;
 }
-
-
-/*Footer !*/
 
 footer
 {
@@ -488,7 +445,6 @@ footer
     background-color: #282A30;
     height: 60px;
 }
-
 
 footer p
 {
@@ -498,38 +454,8 @@ footer p
     display: inline-block;
 }
 
-
 footer p + p
 {
     float:right;
     color: #5D5F63;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
