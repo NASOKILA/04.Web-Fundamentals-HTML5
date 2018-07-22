@@ -1,6 +1,4 @@
 
-
-
 body
 {
     font-family: "Lato", sans-serif;
@@ -32,14 +30,12 @@ h1
     text-transform: uppercase;
 }
 
-
 h2
 {
     color: #234465;
     margin: 10px;
     text-transform: uppercase;
 }
-
 
 main>p
 {
@@ -49,7 +45,6 @@ main>p
     letter-spacing: 0;
     width: 800px;
 }
-
 
 header>p
 {
@@ -84,52 +79,22 @@ img
     cursor: pointer;
 }
 
-/* VAJNO: Taka si risetvame vseki default margin ili padding !*/
 * {
     margin: 0;
     padding: 0;
 }
 
-
-
-
-/*Ot tuk zapochva nashata zadacha :*/
 footer
 {
     background-color: #000000;
 }
 
-footer>p /*paragrafite vuv footera*/
+footer>p 
 {
-    color: #ffffff; /*cvqt na texta*/
-    font-size: 14px; /*goemina na texta*/
-    height: 80px; /*visochina na texta*/
-    line-height: 80px; /*poziciqta v samoto blokche, dali shte e ponagore ili poadolo !*/
-    margin: 0; /*nikakuv margin ot nikade t.e. da ne se izmestva na nikude*/
-    text-align: center; /*da e v centura*/
+    color: #ffffff; 
+    font-size: 14px; 
+    height: 80px; 
+    line-height: 80px; 
+    margin: 0; 
+    text-align: center; 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

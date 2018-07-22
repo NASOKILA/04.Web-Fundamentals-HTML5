@@ -10,12 +10,10 @@ body
     background-color: #293F50;
 }
 
-
-
 ul
 {
-    height: 40px; /*Visochina na spisuka*/
-    line-height: 30px; /*Tova oznachava kude e samiq text v blokcheto.*/
+    height: 40px; 
+    line-height: 30px; 
     background-color: #293F50;
 }
 
@@ -30,13 +28,13 @@ nav
 li
 {
     width: 100px;
-    margin: 0 auto; /*Ot gore i ot dolo shte ima 0 margin a ot strani 5px*/
-    padding: 10px 2px; /*Tuk Ot gore i ot dolo shte ima 5px margin a ot strani 0px*/
-    cursor: pointer; /*Ozn kato posochim mishkata ni stava na ruchichka, tova e cursor*/
-    color: #5D887E; /*cvqt nateksta*/
-    text-align: center; /*centrirame texta*/
+    margin: 0 auto; 
+    padding: 10px 2px; 
+    cursor: pointer; 
+    color: #5D887E; 
+    text-align: center; 
     text-transform: uppercase;
-    display: inline-block; /*ozn da sa edno do drugo vmesto edno pod drugo.*/
+    display: inline-block; 
     background-color: #293F50;
 }
 
@@ -94,10 +92,9 @@ header>p
     background: none;
     text-transform: uppercase;
     border: 2px solid #ffffff;
-    border-radius: 5px; /*kolko da sa zaobleni uglite na butona*/
+    border-radius: 5px; 
     padding: 20px 30px;
     font-size: 16px;
-
 }
 
 .btn:hover
@@ -105,11 +102,6 @@ header>p
     background-color: #ffffff;
     color: #4C6B6D;
 }
-
-
-
-
-
 
 .container
 {
@@ -126,13 +118,11 @@ header>p
     font-size: 25px;
     letter-spacing: normal;
     text-transform: none;
-
     width: 350px;
 }
 
 .container h2
 {
-
     font-family: inherit;
     line-height: 30px;
     padding: 20px 0;
@@ -145,7 +135,6 @@ header>p
 {
     font-size: 20px;
     color:#DEDBDB;
-
 }
 
 section
@@ -155,6 +144,7 @@ section
     margin-left: 60px;
     padding: 0;
 }
+
 img
 {
     border-radius: 3%;
@@ -162,13 +152,10 @@ img
 
 }
 
-
 footer
 {
-
     background-color: #293F50;
 }
-
 
 footer>p
 {
@@ -179,10 +166,8 @@ footer>p
     font-size: 20px;
 }
 
-
 footer>nav
 {
-
     display: inline-block;
     float: right;
     color: white;
@@ -193,5 +178,3 @@ footer a
 {
     color: white;
 }
-
-

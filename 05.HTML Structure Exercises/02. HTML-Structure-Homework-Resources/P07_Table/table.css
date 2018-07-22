@@ -1,6 +1,4 @@
 
-
-
 body
 {
     font-family: "Lato", sans-serif;
@@ -36,8 +34,6 @@ thead>tr>th
     margin: 0;
 }
 
-
-
 tr>td, th
 {
     padding: 5px 30px 5px 10px;
@@ -48,16 +44,6 @@ tr>td, th
     width: 150px;
 }
 
-
 tr:nth-child(even) td, tr:nth-child(even) th {
     background-color: #689ad8;
 }
-
-
-
-
-
-
-
-
-
