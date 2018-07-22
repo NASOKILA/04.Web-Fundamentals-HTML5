@@ -1,7 +1,4 @@
 
-
-
-
 *
 {
     font-size: 16px;
@@ -34,7 +31,6 @@
     border-radius: 10px;
 }
 
-
 .nav-item
 {
     text-transform: capitalize;
@@ -59,7 +55,6 @@
     color: #F3F4F7;
 }
 
-
 .header-title
 {
     color: #F3F4F7;
@@ -72,7 +67,6 @@
     text-transform: capitalize;
     margin-top: 5%;
 }
-
 
 .header-subtitle
 {
@@ -158,26 +152,3 @@ article
     content:"\a\a";
     white-space: pre;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

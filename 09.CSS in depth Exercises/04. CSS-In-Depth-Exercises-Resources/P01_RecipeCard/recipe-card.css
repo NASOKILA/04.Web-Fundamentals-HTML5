@@ -76,7 +76,6 @@ main h1
     padding-top: 5%;
 }
 
-
 .btn-primary
 {
     margin-left: 25%;
@@ -87,7 +86,6 @@ main h1
     padding: 1%;
     letter-spacing: 2px;
     border-style: solid;
-
 }
 
 .btn-primary:hover
@@ -100,7 +98,6 @@ main span
 {
     color: #b5c640;
 }
-
 
 .recipies-info
 {
@@ -126,29 +123,3 @@ main p
     list-style: none;
     margin-bottom: 2%;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

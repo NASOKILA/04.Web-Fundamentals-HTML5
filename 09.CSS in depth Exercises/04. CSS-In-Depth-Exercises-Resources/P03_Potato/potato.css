@@ -1,12 +1,4 @@
 
-/*
-    AKO DADEN ELEMENT IMA 2 KLASA E VAJNO DA ZNAEM CHE MOJEM DA GO
-    NAMERIM PO EDIN OT DVATA KLASA, ILI I PO DVATA SAMOCHE RAZDELENI
-    S TOCHKA.
-*/
-
-
-
 *
 {
     margin:0;
@@ -28,7 +20,6 @@ header {
     margin-right: 25px;
     padding: 1.3%;
 }
-
 
 .nav-item
 {
@@ -59,7 +50,6 @@ nav
     color: white;
     font-weight: bold;
 }
-
 
 .nav-item:hover
 {
@@ -98,8 +88,6 @@ header
     margin-bottom: 3%;
 }
 
-
-
 .features
 {
     background: url("images/potato-background.png");
@@ -121,7 +109,6 @@ header
     width: 35%;
     margin: 0 auto;
 }
-
 
 .feature-potatoes
 {
@@ -150,7 +137,6 @@ header
     padding-bottom: 5%;
 }
 
-
 .potato
 {
     border: 1px solid transparent;
@@ -160,9 +146,8 @@ header
     padding: 0;
     margin: 0;
     height: 400px;
-    vertical-align: top;  /*VAJNO !!! : KACHVAME SUDURJANIETO NAGORE */
+    vertical-align: top;  
 }
-
 
 .potato-types:last-of-type.potato
 {
@@ -222,9 +207,3 @@ footer
     height:30px;
     line-height: 200%;
 }
-
-
-
-
-
-
