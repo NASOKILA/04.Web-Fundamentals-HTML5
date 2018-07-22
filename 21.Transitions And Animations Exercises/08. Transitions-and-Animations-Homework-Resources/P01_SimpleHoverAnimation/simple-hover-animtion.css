@@ -15,9 +15,8 @@ li {
     font-size: 20px;
     padding: 10px 20px;
     cursor: default;
-    transition: padding 1s; /*TOVA VINAGI GO DOBAVQME ZADULJITELNO */
+    transition: padding 1s; 
 }
-
 
 li:hover
 {
@@ -25,13 +24,3 @@ li:hover
     padding-bottom: 30px;
     cursor: pointer;
 }
-
-
-
-
-
-
-
-
-
-

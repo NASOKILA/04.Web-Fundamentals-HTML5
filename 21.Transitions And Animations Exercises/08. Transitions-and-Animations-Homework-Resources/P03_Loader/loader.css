@@ -18,13 +18,12 @@ body {
     border-radius: 50px;
 }
 
-/*TODO Animations*/
-
 .container div:nth-of-type(1)
 {
     background: #ff005d;
     position:relative;
 }
+
 .container .ball:nth-of-type(1)
 {
     animation-name: ball1;
@@ -36,12 +35,12 @@ body {
     animation-delay: 1s;
 }
 
-
 .container div:first-of-type + div
 {
     background: #35ff99;
     position: relative;
 }
+
 .container div:first-of-type + div
 {
     animation-name: ball1;
@@ -53,13 +52,12 @@ body {
     animation-iteration-count: infinite;
 }
 
-
-
 .container div:nth-child(3)
 {
     background: #008597;
     position: relative;
 }
+
 .container div:nth-child(3)
 {
     animation-name: ball1;
@@ -71,12 +69,12 @@ body {
     animation-iteration-count: infinite;
 }
 
-
 .container div:nth-child(4)
 {
     background: #ffcc00;
     position: relative;
 }
+
 .container div:nth-child(4)
 {
     animation-name: ball1;
@@ -93,6 +91,7 @@ body {
     background: #2d3443;
     position: relative;
 }
+
 .container div:nth-child(5)
 {
     animation-name: ball1;
@@ -109,6 +108,7 @@ body {
     background: #ff7c35;
     position: relative;
 }
+
 .container div:nth-child(6)
 {
     animation-name: ball1;
@@ -125,6 +125,7 @@ body {
     background: #4d407c;
     position: relative;
 }
+
 .container div:nth-child(7)
 {
     animation-name: ball1;
@@ -136,10 +137,6 @@ body {
     animation-iteration-count: infinite;
 }
 
-
-/*TODO @keyframes*/
-/* The animation code */
-
 @keyframes ball1 {
     0%
     {
@@ -150,18 +147,4 @@ body {
     {
         left:100px;
     }
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-

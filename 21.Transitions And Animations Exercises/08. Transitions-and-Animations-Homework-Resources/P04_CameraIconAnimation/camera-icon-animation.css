@@ -120,16 +120,10 @@ body {
     left: 30px;
 }
 
-
-/* Animation */
-
-/*TODO flatAnimation*/
-
 .flat-anim
 {
     animation: flatAnimation 1s ease-in-out 0s 1 alternate;
 }
-
 
 @-webkit-keyframes flatAnimation {
     0% {
@@ -170,134 +164,93 @@ body {
 .eye,
 .flat-anim:before,
 .flat-anim:after {
-
-    /*Animation eye properties*/
-  
     animation: flatAnimation 1s ease-in-out 1s 1 alternate;
-
 }
 
-/*TODO before .flat-anim use delay property*/
-
-/*TODO after .flat-anim use delay property*/
-
-/*ZAPOCHVAME DA NAMALQVAME OKOTO !*/
 @-webkit-keyframes eyeAnimation {
     0% {
         opacity: 0;
         transform: scale(1);
-        /*TODO use sc transform*/
     }
     12% {
         opacity: 0;
-        transform: scale(0.9);
-        /*TODO*/
-
+        transform: scale(0.9); 
     }
     13% {
         opacity: 1;
         transform: scale(0.8);
-
-        /*TODO*/
-
     }
     20% {
         opacity: 1;
         transform: scale(0.7);
-        /*TODO*/
-
     }
     25% {
-        /*TODO*/
         transform: scale(0.6);
     }
     95% {
-        /*TODO*/
         transform: scale(0.2);
         opacity: 1;
     }
     100% {
         transform: scale(0);
         opacity: 0;
-        /*TODO*/
-
     }
 }
-/*TODO before .bottom*/
 
 @-webkit-keyframes bottomAnimation {
     0% {
         opacity: 0;
-        /*TODO change width*/
     }
     20% {
         opacity: 0;
-        /*TODO change width*/
     }
     21% {
         opacity: 0;
-        /*TODO change width*/
 
     }
     22% {
         opacity: 1;
-        /*TODO change width*/
     }
     25% {
         opacity: 1;
-        /*TODO change width*/
     }
     26% {
         opacity: 1;
-        /*TODO change width*/
     }
     95% {
         opacity: 1;
-        /*TODO change width*/
     }
     96% {
         opacity: 0;
-        /*TODO change width*/
     }
     100% {
         opacity: 0;
-        /*TODO change width*/
     }
 }
-
-/*TODO after .bottom*/
 
 @-webkit-keyframes bottomAfterAnimation {
     0% {
         opacity: 0;
-        /*TODO change height and border*/
     }
     25% {
         opacity: 0;
-        /*TODO change height and border*/
     }
     26% {
         opacity: 1;
-        /*TODO change height and border*/
     }
     26% {
         opacity: 1;
-        /*TODO change height and border-top*/
     }
     28% {
         opacity: 1;
-        /*TODO change height and border-top*/
     }
     28% {
         opacity: 1;
-        /*TODO change height and border-top and border-bottom*/
     }
     95% {
         opacity: 1;
-        /*TODO change height and border-top and border-bottom*/
     }
     100% {
         opacity: 0;
-        /*TODO change height and border*/
     }
 }
