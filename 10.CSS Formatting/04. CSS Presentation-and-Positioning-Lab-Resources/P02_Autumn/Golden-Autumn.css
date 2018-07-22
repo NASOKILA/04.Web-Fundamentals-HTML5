@@ -72,8 +72,8 @@ article
     margin-top : 100px;
     background: #e0ac1d;
     border-radius: 15px;
-    text-align: justify; /*tova znaem che podrejda texta*/
-    text-justify: inter-word; /**/
+    text-align: justify; 
+    text-justify: inter-word; 
 }
 
 Article div figure
@@ -121,4 +121,3 @@ footer
     margin: 10px;
     text-transform: uppercase;
 }
-
