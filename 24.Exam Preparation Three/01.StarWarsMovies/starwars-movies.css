@@ -42,7 +42,6 @@ section>article>div
     height:180px;
 }
 
-
 section>article>.first-div-img>img
 {
     width:50%;
@@ -66,7 +65,6 @@ section>article>.third-div-img>img
 {
     width:100%;
 }
-
 
 section>article>h1
 {
@@ -97,23 +95,9 @@ button
     background: transparent;
 }
 
-
 button:hover
 {
     background-color:#4C8ADD;
     color: white;
     cursor: pointer;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-

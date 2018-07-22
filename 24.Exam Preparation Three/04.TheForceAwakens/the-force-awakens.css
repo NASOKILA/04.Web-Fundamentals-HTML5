@@ -1,13 +1,11 @@
 @import "https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900";
 @import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
 
-
 *
 {
     margin:0;
     padding:0;
 }
-
 
 body
 {
@@ -22,8 +20,6 @@ body
     padding:20px;
     color: #818386;
 }
-
-
 
 .sec-one
 {
@@ -43,7 +39,6 @@ body
     display: inline-block;
     padding:10px;
     color: #818386;
-
 }
 
 .sec-one>header>ul>li:hover
@@ -57,14 +52,12 @@ header
     margin-bottom: 60px;
 }
 
-
 .left-side
 {
     display: inline-block;
     width: 40%;
     padding:50px;
 }
-
 
 .left-side>.episode
 {
@@ -109,13 +102,11 @@ header
     display: inline-block;
 }
 
-
 .minutes
 {
     color: #D2D5DA;
     display: inline-block;
 }
-
 
 .left-side-ul
 {
@@ -137,7 +128,6 @@ header
     color: #818386;
 }
 
-
 .right-side
 {
     display: inline-block;
@@ -146,12 +136,10 @@ header
     margin-left:15%;
 }
 
-
 .right-side>img
 {
     width: 100%;
 }
-
 
 .sec-two
 {
@@ -182,7 +170,6 @@ header
     letter-spacing: 5px;
 }
 
-
 .sec-two>.sec-two-article1>.sec-two-article-content
 {
     width:52.5%;
@@ -193,7 +180,6 @@ header
     top:80px;
     color: #818386;
 }
-
 
 .sec-two>.sec-two-article1>.div-img>img
 {
@@ -212,7 +198,6 @@ header
     color: #818386;
     letter-spacing: 5px;
 }
-
 
 .sec-two>.sec-two-article2>.sec-two-article-content
 {
@@ -237,43 +222,7 @@ header
     letter-spacing: 5px;
 }
 
-
-
-
-
 body
 {
     margin-bottom: 300px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

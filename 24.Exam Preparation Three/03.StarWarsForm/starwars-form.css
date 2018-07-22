@@ -34,7 +34,6 @@ body>header>h2:first-of-type
     font-weight: 100;
 }
 
-
 body>header>h3>span
 {
     text-transform: lowercase;
@@ -54,8 +53,6 @@ td
     border: 1px solid #D5D6D8;
 }
 
-
-/*FIRST ROW*/
 .first-row>td
 {
     padding:15px;
@@ -72,8 +69,6 @@ td
     border-right:transparent;
 }
 
-/*radiobuttons*/
-
 input[type="radio"]
 {
 
@@ -83,10 +78,6 @@ input[type="radio"]:checked
 {
 
 }
-
-
-
-
 
 .secont-row>td
 {
@@ -124,7 +115,6 @@ td
     font-weight: lighter;
 }
 
-
 input[type="radio"]
 {
     height:30px;
@@ -144,11 +134,6 @@ td>label:hover, td>input[type="radio"]
     cursor: pointer;
 }
 
-
-
-
-
-
 .first-row>td:first-of-type>img
 {
     position: relative;
@@ -156,18 +141,12 @@ td>label:hover, td>input[type="radio"]
     left:30%;
 }
 
-
-
 .first-row>td:last-of-type>img
 {
     position: relative;
     top:5px;
     left:15%;
 }
-
-
-
-/*SECOND ROW*/
 
 .secont-row>td>label
 {
@@ -187,11 +166,6 @@ td>label:hover, td>input[type="radio"]
     color: white;
     font-weight: 800;
 }
-
-
-
-
-/*THIRD ROW*/
 
 .third-row>td>label
 {
@@ -225,14 +199,11 @@ td>label:hover, td>input[type="radio"]
     cursor: pointer;
 }
 
-
-/*FORTH ROW*/
 .forth-row>td
 {
     padding: 0;
     height:55px;
 }
-
 
 button
 {
@@ -246,7 +217,6 @@ button:hover
 {
     cursor: pointer;
 }
-
 
 button>p
 {
@@ -265,8 +235,6 @@ button>p
     color: white;
 }
 
-
-/*Side image*/
 .side-img>img
 {
     position: relative;
@@ -274,14 +242,10 @@ button>p
     left:0px;
     z-index: -1;
     width: 34%;
-
 }
 
-
-/*Footer*/
 footer
 {
-
     color: #D5D6D8;
     font-weight: lighter;
     width:50%;
@@ -300,13 +264,7 @@ footer>p>span
     font-weight: 500;
 }
 
-
-    .side-img
-    {
-        height:0;
-    }
-
-
-
-
-
+.side-img
+{
+    height:0;
+}
